@@ -34,6 +34,7 @@ function App() {
     <div className="container">
       <header>
         <h1>Carlos Larios</h1>
+        <h2>Este fue otro cambio</h2>
         <div className="contenido-principal contenido">
           {mostrarPregunta ? (
             <Pregunta
