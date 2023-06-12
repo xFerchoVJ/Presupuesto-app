@@ -35,6 +35,7 @@ function App() {
       <header>
         <h1>Carlos Larios</h1>
         <h2>Este fue otro cambio</h2>
+        <h3>Hola bro</h3>
         <div className="contenido-principal contenido">
           {mostrarPregunta ? (
             <Pregunta
