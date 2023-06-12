@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="container">
       <header>
-        <h1>Gasto semanal</h1>
+        <h1>Carlos Larios</h1>
         <div className="contenido-principal contenido">
           {mostrarPregunta ? (
             <Pregunta
